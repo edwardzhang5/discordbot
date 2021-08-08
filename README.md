@@ -17,9 +17,11 @@ $list
 ```
 and new messages can be added or removed with 
 ```bash
-$new ```
+$new 
+```
 ```bash
-$del```
+$del
+```
 
 # Other Functionality
 Other functionality include the option to reply to a user evertime he/her types a message. <br/>
