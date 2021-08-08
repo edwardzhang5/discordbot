@@ -12,14 +12,14 @@ replit <br/>
 
 # Useage
 The list of reply messages can be seen with 
-'''bash 
+```bash 
 $list
-'''
+```
 and new messages can be added or removed with 
-'''bash
-$new '''
-'''bash
-$del'''
+```bash
+$new ```
+```bash
+$del```
 
 # Other Functionality
 Other functionality include the option to reply to a user evertime he/her types a message. <br/>
