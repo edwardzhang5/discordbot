@@ -22,6 +22,6 @@ $new '''
 $del'''
 
 # Other Functionality
-Other functionality include the option to reply to a user evertime he/her types a message. 
-(Can be used to send peanut butter facts)
+Other functionality include the option to reply to a user evertime he/her types a message. <br/>
+(Can be used to send peanut butter facts) <br/>
 **Requires obtaining user id first. 
